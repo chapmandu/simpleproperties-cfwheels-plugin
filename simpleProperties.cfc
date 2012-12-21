@@ -6,7 +6,7 @@
 	</cffunction>
 	
 	<cffunction name="simplePropertiesVersion" returntype="string" access="public" output="false">
-		<cfreturn "1.0" />
+		<cfreturn "1.0.1" />
 	</cffunction>
 
 	<!--- return only object properties (and nested properties') that are simple values  --->
